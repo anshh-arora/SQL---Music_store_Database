@@ -45,6 +45,6 @@ Use the sql_solutions.sql file to execute SQL queries to answer specific questio
 ## Contact Information
 For any questions or feedback, feel free to reach out: 
 
-Email: ansharora.cs@gmail.com
-LinkedIn: Connect with me on LinkedIn
-Kaggle: Follow me on Kaggle
+- Email: ansharora.cs@gmail.com
+- LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/ansh-arora-data-scientist)
+- Kaggle: [Follow me on Kaggle](https://www.kaggle.com/ansh1529)
