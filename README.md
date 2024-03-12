@@ -20,6 +20,33 @@ The Music Store Database project is designed to mimic a real-world scenario of m
     
 The tables are linked through primary and foreign key relationships to maintain data integrity and enable efficient querying.
 
+# Queries
+set 1 - easy
+1) who is the senior most employee based on the job tiitle?
+2) which country have the most invoices?
+3) what are the top 3 values of total invoice?
+4) Which city has the best customers? we would like to throw a promotional music festival in the city we made the most money. write a query that
+ return one city that has the highest sum of invoice totals. return both the city name and sum of all invoice total.
+5) Who is the best customer? The customer who has spent the most money will be declared the best customer. write a query that return the person
+ who has spent the most money.
+ 
+Set 2 - moderate
+1) write query to return the e-mail, first name, last name, genre of all rock music listeners. Return your list ordered alphabetically by e-mail
+ starting with A
+2) Let's invite the artist who have written the most rock music in a dataset. Write a query that returns the artist's name and total track count 
+of the top 10 rock band.
+3) Return all the track names that have a song length longer than the average song length return the name and Milliseconds for each track. 
+My phone went with the longest songs listened first.
+
+SET 3 - hard
+1) Find how much amount spent by each customer on artists? write a query to return customer name, artist name and total spent.
+2) We want to find out the most popular music genre for each country we determine the most popular genre as the genre with the highest amount 
+of purchases write a query that written each country along with the top genre. For countries where the maximum number of purchases is shared return
+all genres.
+3) Write a query that determines the customer that has spent the most on music for each country. I read that return the country along with the top
+customer And how much they spent. For countries where the top amount spent is shared provide all customers who spent this amount.
+
+
 ## Purpose of the Project
 The main objectives of this project are:
 
